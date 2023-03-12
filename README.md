@@ -1,2 +1,3 @@
-# presty-installer
-presty framework's installer executable for Windows
+# Presty-Installer
+
+由于在Windows下无法直接运行Presty框架内置的`presty`命令行cli工具，你可以通过以下方法来安装此程序，它可以帮助开发者快速安装框架、创建新项目，也可以全局调用这个工具来直接执行Presty提供的一系列命令行操作，无需通过PHP语句执行。
