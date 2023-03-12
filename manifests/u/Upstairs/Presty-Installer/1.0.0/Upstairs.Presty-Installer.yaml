@@ -1,7 +1,7 @@
 # Created using wingetcreate 1.2.5.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.4.0.schema.json
 
-PackageIdentifier: Upstair.Presty-Installer
+PackageIdentifier: Upstairs.Presty-Installer
 PackageVersion: 1.0.0
 DefaultLocale: cn-zh
 ManifestType: version
