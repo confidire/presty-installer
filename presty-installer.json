@@ -2,7 +2,7 @@
     "version":  "1.0.0",
     "license":  "Apache-2.0",
     "extract_dir":  "",
-    "url":  "https://raw.githubusercontent.com/Upstair/presty-installer/main/dist/presty.exe",
+    "url":  "https://raw.githubusercontent.com/Upstair/presty-installer/main/presty-installer.zip",
     "depends":  "",
     "homepage":  "https://github.com/Upstair",
     "hash":  "",
