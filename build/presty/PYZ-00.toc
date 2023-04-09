@@ -1,4 +1,4 @@
-('C:\\Users\\User\\Downloads\\Compressed\\test\\build\\presty\\PYZ-00.pyz',
+('C:\\Users\\User\\Desktop\\self\\网站开发\\presty-installer\\build\\presty\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
    'PYMODULE'),
